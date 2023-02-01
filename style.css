@@ -1,0 +1,17 @@
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  justify-content: space-evenly;
+}
+.gallery img {
+  width: 360px;
+  height: 260px;
+  margin: 1px;
+}
+.hide {
+  display: none;
+}
+.form {
+  display: block;
+}
